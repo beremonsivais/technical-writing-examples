@@ -13,3 +13,6 @@
   - The instructions are simple and directed toward the average user.
   - The instructions are in a formal tone and active voice.
   - The arrangement of the descriptions for each key in the remote control is organized and eye pleasing.
+
+> [!NOTE]
+> Please download the user manual PDF files if they do not appear in your browser.
